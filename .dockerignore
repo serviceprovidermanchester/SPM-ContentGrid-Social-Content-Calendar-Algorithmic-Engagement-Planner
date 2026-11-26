@@ -1,0 +1,13 @@
+.git
+.github
+node_modules
+screenshots
+preview
+tests
+docs
+*.md
+.env
+.env.*
+backend/data/*.sqlite*
+coverage
+*.log

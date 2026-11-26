@@ -1,0 +1,47 @@
+{
+  "name": "spm-ads-contentgrid-calendar",
+  "version": "1.0.0",
+  "description": "ContentGrid — Enterprise Social Content Calendar & Engagement Planner with deterministic scoring, format roll-ups, and calendar coverage analysis. Zero runtime dependencies.",
+  "keywords": [
+    "social-media-calendar",
+    "content-planner",
+    "engagement-rate",
+    "social-analytics",
+    "marketing-automation",
+    "deterministic-engine",
+    "zero-dependencies",
+    "nodejs",
+    "sqlite",
+    "spmanchester"
+  ],
+  "homepage": "https://github.com/serviceprovidermanchester/SPM-ContentGrid-Social-Content-Calendar-Algorithmic-Engagement-Planner#readme",
+  "bugs": {
+    "url": "https://github.com/serviceprovidermanchester/SPM-ContentGrid-Social-Content-Calendar-Algorithmic-Engagement-Planner/issues",
+    "email": "info@spmanchester.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serviceprovidermanchester/SPM-ContentGrid-Social-Content-Calendar-Algorithmic-Engagement-Planner.git"
+  },
+  "license": "MIT",
+  "author": "Sayed Mudassar Akbar <info@spmanchester.com> (https://spmanchester.com/)",
+  "maintainers": [
+    {
+      "name": "SPManchester Private Limited",
+      "email": "info@spmanchester.com",
+      "url": "https://spmanchester.com/"
+    }
+  ],
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "type": "commonjs",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "dev": "node --watch backend/src/server.js",
+    "test": "node tests/run-tests.js",
+    "seed": "node backend/src/seed.js",
+    "check": "node --check backend/src/server.js && node --check backend/src/app.js && node --check backend/src/db.js && node --check backend/src/seed.js && node --check backend/src/seed-data.js && node --check backend/src/marketing/engine.js"
+  }
+}

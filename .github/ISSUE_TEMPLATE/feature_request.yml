@@ -1,0 +1,30 @@
+name: Feature Request
+description: Suggest an idea or enhancement for ContentGrid
+title: "[FEATURE]: "
+labels: ["enhancement", "feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggesting an enhancement for ContentGrid by SPManchester Private Limited.
+  - type: textarea
+    id: feature-pitch
+    attributes:
+      label: Problem Statement / Opportunity
+      description: What problem would this feature solve for your marketing workflow?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution & User Experience
+      description: Describe how this feature should work and how users interact with it.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative Solutions Considered
+      description: Any alternative approaches or workarounds you have evaluated.
+    validations:
+      required: false

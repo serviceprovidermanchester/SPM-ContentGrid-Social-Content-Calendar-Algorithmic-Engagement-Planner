@@ -1,0 +1,42 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# SQLite databases & WAL logs
+backend/data/*.sqlite
+backend/data/*.sqlite-journal
+backend/data/*.sqlite-wal
+backend/data/*.sqlite-shm
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+tmp/
+*.tmp
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Test artifacts and coverage
+coverage/
+.nyc_output/
+
+# IDE and Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker
+.docker/

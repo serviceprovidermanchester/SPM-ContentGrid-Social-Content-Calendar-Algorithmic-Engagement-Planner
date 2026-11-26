@@ -1,0 +1,363 @@
+{
+"accent": "#FF5C8A",
+"avgScore": 7.27,
+"bestFormat": "Reel · 9.33",
+"bestSlot": "Wednesday evening · 11",
+"bg": "#FDF4F8",
+"business": "Northern Quarter Hospitality Group",
+"channels": [
+[
+"Instagram",
+"@nqhospitality",
+"18,400"
+],
+[
+"TikTok",
+"@nqhospitalitymcr",
+"32,600"
+],
+[
+"LinkedIn",
+"Northern Quarter Hospitality Group",
+"5,400"
+]
+],
+"coverage": {
+"gapList": "2026-11-04 · 2026-11-06 · 2026-11-08 · 2026-11-10 · 2026-11-12 · 2026-11-17 · 2026-11-19 · 2026-11-21 · 2026-11-22 · 2026-11-24 · 2026-11-26",
+"gaps": 11,
+"pct": 85,
+"perWeek": 4.25,
+"posts": "17 of 20"
+},
+"formats": [
+[
+"Reel",
+"3",
+"9.33",
+"6,000",
+"560"
+],
+[
+"Video",
+"3",
+"8.42",
+"6,000",
+"505"
+],
+[
+"Carousel",
+"3",
+"6.83",
+"6,000",
+"410"
+],
+[
+"Image",
+"3",
+"4.5",
+"6,000",
+"270"
+]
+],
+"header": "#2B1055",
+"location": "Northern Quarter, Manchester",
+"mix": [
+[
+"Reel",
+"6",
+"35.29",
+"40",
+"-4.71"
+],
+[
+"Carousel",
+"4",
+"23.53",
+"25",
+"-1.47"
+],
+[
+"Image",
+"3",
+"17.65",
+"15",
+"+2.65"
+],
+[
+"Video",
+"4",
+"23.53",
+"20",
+"+3.53"
+]
+],
+"name": "ContentGrid",
+"owner": "Maya Patel",
+"planned": [
+[
+"2026-11-02 (Mon)",
+"November menu launch reel",
+"Reel",
+"Instagram",
+"morning"
+],
+[
+"2026-11-03 (Tue)",
+"Bonfire Night drinks — five slides",
+"Carousel",
+"Instagram",
+"midday"
+],
+[
+"2026-11-05 (Thu)",
+"Bonfire Night terrace photo",
+"Image",
+"Instagram",
+"evening"
+],
+[
+"2026-11-07 (Sat)",
+"Saturday service behind the bar",
+"Reel",
+"TikTok",
+"evening"
+],
+[
+"2026-11-09 (Mon)",
+"Christmas party venue tour",
+"Video",
+"LinkedIn",
+"morning"
+],
+[
+"2026-11-11 (Wed)",
+"Festive set menu — five slides",
+"Carousel",
+"Instagram",
+"midday"
+],
+[
+"2026-11-13 (Fri)",
+"Cocktail of the week",
+"Reel",
+"TikTok",
+"evening"
+],
+[
+"2026-11-14 (Sat)",
+"Brunch board flat-lay",
+"Image",
+"Instagram",
+"afternoon"
+]
+],
+"postDetail": {
+"breakdown": "(100 + 3×10 + 4×5 + 2×20) ÷ 2,000 × 100 = 190 ÷ 2,000 × 100 = 9.5",
+"comments": "10",
+"format": "Reel",
+"likes": "100",
+"platform": "Instagram",
+"reach": "2,000",
+"saves": "20",
+"score": 9.5,
+"shares": "5",
+"slot": "Monday 2026-10-05 · morning",
+"title": "Cocktail masterclass highlights",
+"weights": "Likes 100 · comments weighted 30 · shares weighted 20 · saves weighted 40"
+},
+"posts": [
+[
+"2026-10-05",
+"Cocktail masterclass highlights",
+"Reel",
+"Instagram",
+"published",
+"2,000",
+"9.5"
+],
+[
+"2026-10-07",
+"Behind the bar: Friday service",
+"Reel",
+"TikTok",
+"published",
+"2,000",
+"11"
+],
+[
+"2026-10-12",
+"New seasonal menu teaser",
+"Reel",
+"Instagram",
+"published",
+"2,000",
+"7.5"
+],
+[
+"2026-10-08",
+"Venue hire walkthrough",
+"Video",
+"LinkedIn",
+"published",
+"2,000",
+"9.75"
+],
+[
+"2026-10-08",
+"Sunday roast, step by step",
+"Carousel",
+"Instagram",
+"published",
+"2,000",
+"8"
+],
+[
+"2026-10-06",
+"Meet the chefs — five slides",
+"Carousel",
+"Instagram",
+"published",
+"2,000",
+"7.25"
+],
+[
+"2026-10-10",
+"Saturday brunch spread",
+"Image",
+"Instagram",
+"published",
+"2,000",
+"5.75"
+],
+[
+"2026-10-11",
+"Sunday kitchen portrait",
+"Image",
+"Instagram",
+"published",
+"2,000",
+"4.5"
+]
+],
+"recs": [
+[
+"high",
+"format",
+"Lead with Reel",
+"Reel averages 9.33 engagement across 3 published posts and 6,000 reach — schedule more of this format first."
+],
+[
+"high",
+"slot",
+"Best slot: Wednesday evening",
+"Wednesday evening averages 11 engagement across 1 published post. Anchor the calendar's strongest post there each week."
+],
+[
+"medium",
+"format",
+"Rework or retire Image",
+"Image averages 4.5, trailing Reel by 4.83 points. Rework the creative or move its slots to Reel."
+],
+[
+"high",
+"coverage",
+"Close the coverage gap",
+"17 posts planned against a target of 20 (85% coverage) with 11 gap days in the period. Add 3 posts, starting on the gap days."
+]
+],
+"report": {
+"ref": "RPT-SEED01",
+"summary": "Average engagement score 7.27 across 12 published posts. Best format: Reel (9.33). Best slot: Wednesday evening (11). November calendar coverage 85% (17 of 20 target posts) with 11 gap days.",
+"title": "Content performance summary — Northern Quarter Hospitality Group"
+},
+"runRef": "ANA-SEED01",
+"slots": [
+[
+"Wednesday evening",
+"Wednesday",
+"evening",
+"1",
+"11",
+"2,000"
+],
+[
+"Monday morning",
+"Monday",
+"morning",
+"1",
+"9.5",
+"2,000"
+],
+[
+"Thursday evening",
+"Thursday",
+"evening",
+"2",
+"8.88",
+"4,000"
+],
+[
+"Saturday evening",
+"Saturday",
+"evening",
+"1",
+"8",
+"2,000"
+],
+[
+"Tuesday evening",
+"Tuesday",
+"evening",
+"1",
+"7.5",
+"2,000"
+],
+[
+"Monday evening",
+"Monday",
+"evening",
+"1",
+"7.5",
+"2,000"
+],
+[
+"Tuesday midday",
+"Tuesday",
+"midday",
+"1",
+"7.25",
+"2,000"
+]
+],
+"stats": {
+"channels": 3,
+"coverage": 85,
+"followers": 56400,
+"openTasks": 3,
+"planned": 17,
+"published": 12
+},
+"tagline": "Post what earns engagement, at the time it earns it",
+"weeks": [
+[
+"2026-11-02 → 2026-11-08",
+"4",
+"5"
+],
+[
+"2026-11-09 → 2026-11-15",
+"5",
+"5"
+],
+[
+"2026-11-16 → 2026-11-22",
+"3",
+"5"
+],
+[
+"2026-11-23 → 2026-11-29",
+"5",
+"5"
+]
+]
+}

@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  contentgrid:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: spmanchester/contentgrid:latest
+    container_name: spm-contentgrid
+    restart: unless-stopped
+    ports:
+      - "4000:4000"
+    environment:
+      - NODE_ENV=production
+      - PORT=4000
+      - HOST=0.0.0.0
+      - DB_PATH=/app/backend/data/contentgrid.sqlite
+    volumes:
+      - contentgrid_data:/app/backend/data
+
+volumes:
+  contentgrid_data:
+    driver: local
